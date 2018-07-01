@@ -54,3 +54,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'libv8', '~> 3.16.14.15'
 gem 'therubyracer', '~> 0.12.3'
 gem 'execjs', '~> 2.7'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'jquery-rails'
