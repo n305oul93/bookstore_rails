@@ -1,24 +1,16 @@
-# README
+# [Bookstore App](https://bookstore.djpringle.website/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic book stock application that keeps details of books, authors, and publishers.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+* [Ruby on Rails v5.1.6](https://rubyonrails.org/)
 
-* System dependencies
+### Prerequisites - Gems used
+* Mysql
+* Bootstrap-sass v3.3.7
 
-* Configuration
 
-* Database creation
+###### Acknowledgments
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Brad Traversy - Traversy Media
